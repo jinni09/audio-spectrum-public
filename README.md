@@ -19,6 +19,16 @@
 
 ## Running
 - main 함수 실행 또는 실행파일(.jar, .exe) 만들어서 실행
+- .wav, .mp3 오디오 파일을 오디오 스펙트럼 효과 .mp4 파일로 포맷.
+- 스펙트럼 높낮이는 원하는대로 커스터마이징 가능.
+- 아래는 결과물을 가지고 영상에 적용
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/58936727/119162053-e7187d00-ba94-11eb-9c34-a0890ae0acfd.gif)
+
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/58936727/119164924-e46b5700-ba97-11eb-81b2-517afa97b50e.gif)
+
+
 
 
 
