@@ -8,7 +8,7 @@
 
 ## Source
 - 애프터 이펙트 오디오 스펙트럼 효과 java로 구현
-- 소스는 private repository에서 관리, 소스 공개 생각없음.
+- 소스는 private repository에서 관리. 비공개.
 
 <br>
 
